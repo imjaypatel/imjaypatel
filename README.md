@@ -10,13 +10,8 @@
   <li>Successfully executed over twenty projects working in a highly collaborative environment along with providing mentorship and code reviews to deliver quality web applications.</li>
 </ul>
 
-## Language Usage - Status
-![Top Language stats](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=imjaypatel&layout=compact&theme=light&show_icons=true&private=true)
 
-## Github Usage - Status
-![Jay's github stats](https://github-readme-stats.vercel.app/api?username=imjaypatel&show_icons=true&locale=en)
-
-## Connect with me
+## Connect me
 <p>
   <a href="https://linkedin.com/in/imjaypatel" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imjaypatel" height="30" width="40" />
